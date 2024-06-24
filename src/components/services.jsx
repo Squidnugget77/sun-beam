@@ -8,7 +8,7 @@ const Services = () => {
       <p>Start your morning right with good news</p>
       <div className="service-cards">
         <div className="service-card">
-          <h3>Feature 1</h3>
+          <h3>Morning notifications to start your day positively</h3>
           <p>Details about the first feature.</p>
         </div>
         <div className="service-card">
