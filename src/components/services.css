@@ -1,0 +1,17 @@
+.services {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.service-cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.service-card {
+  background: #f5f5f5;
+  padding: 20px;
+  width: 200px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}

@@ -1,0 +1,12 @@
+.portfolio {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 20px;
+}
+
+.portfolio-item {
+  background: #ddd;
+  width: calc(33.333% - 20px);
+  height: 200px;
+}
